@@ -6,6 +6,11 @@
 
 using namespace std;
 
+/*
+ Author: AbdElrahman Eid
+ Github: AbdElrahman-A-Eid
+*/
+
 struct Student
 {
     int Id;
