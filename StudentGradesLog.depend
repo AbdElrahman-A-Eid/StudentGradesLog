@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1637932407 source:e:\iti admission\ai track\3. opp using c++\projects\StudentGradesLog\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1637932407 source:e:\iti admission\ai track\3. opp using c++\projects\studentgradeslog\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
